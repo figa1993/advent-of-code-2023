@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/trebuchet",
+            "program": "${workspaceFolder}/build/trebuchet2",
             "args": ["${workspaceFolder}/input.dat"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",

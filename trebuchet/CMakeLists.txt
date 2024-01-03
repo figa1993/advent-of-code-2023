@@ -5,6 +5,7 @@ include(CTest)
 enable_testing()
 
 add_executable(trebuchet main.cpp)
+add_executable(trebuchet2 trebuchet2.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
